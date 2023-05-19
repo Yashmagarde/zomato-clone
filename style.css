@@ -69,6 +69,9 @@ body {
 
 @media (max-width:600px) {
 
+    #head{
+        height: 60vh;
+    }
 
     #hcontent {
         width: 90vw;
